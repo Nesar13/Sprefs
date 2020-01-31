@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Sprefs</string>
+    <string name="enter_button">Button</string>
+    <string name="enter_name">Enter Name</string>
+    <string name="showText">TextView</string>
+</resources>
